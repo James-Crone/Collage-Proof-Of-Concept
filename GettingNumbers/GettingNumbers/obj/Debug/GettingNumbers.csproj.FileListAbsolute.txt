@@ -1,0 +1,10 @@
+C:\Users\joker\Desktop\Projects\C#\GettingNumbers\GettingNumbers\bin\Debug\GettingNumbers.exe.config
+C:\Users\joker\Desktop\Projects\C#\GettingNumbers\GettingNumbers\bin\Debug\GettingNumbers.exe
+C:\Users\joker\Desktop\Projects\C#\GettingNumbers\GettingNumbers\bin\Debug\GettingNumbers.pdb
+C:\Users\joker\Desktop\Projects\C#\GettingNumbers\GettingNumbers\obj\Debug\GettingNumbers.csproj.AssemblyReference.cache
+C:\Users\joker\Desktop\Projects\C#\GettingNumbers\GettingNumbers\obj\Debug\GettingNumbers.Properties.Resources.resources
+C:\Users\joker\Desktop\Projects\C#\GettingNumbers\GettingNumbers\obj\Debug\GettingNumbers.csproj.GenerateResource.cache
+C:\Users\joker\Desktop\Projects\C#\GettingNumbers\GettingNumbers\obj\Debug\GettingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\joker\Desktop\Projects\C#\GettingNumbers\GettingNumbers\obj\Debug\GettingNumbers.exe
+C:\Users\joker\Desktop\Projects\C#\GettingNumbers\GettingNumbers\obj\Debug\GettingNumbers.pdb
+C:\Users\joker\Desktop\Projects\C#\GettingNumbers\GettingNumbers\obj\Debug\GettingNumbers.CalculationForm.resources
